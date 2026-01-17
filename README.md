@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pizoooo
+- 👋 Hi, I’m @ramzey-dev
 - 👀 I’m interested in coding, gaming and new tech
 - 🌱 I’m currently learning networking
 - 💞️ I’m looking to collaborate on openssl
